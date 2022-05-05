@@ -11,10 +11,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
+https://merry-cascaron-69cc7f.netlify.app/
+
 ![img](https://i.ibb.co/ZmTZbvQ/dataapp.png)
 
-https://merry-cascaron-69cc7f.netlify.app/
- 
 ## Available Scripts
 
 In the project directory, you can run:
