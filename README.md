@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Built With
+
+1. React
+2. React Icons
+3. React Typed
+4. TailwindCSS
+
+## Demo
+
+https://merry-cascaron-69cc7f.netlify.app/
+ 
 ## Available Scripts
 
 In the project directory, you can run:
