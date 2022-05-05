@@ -11,6 +11,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
+![img](https://i.ibb.co/ZmTZbvQ/dataapp.png)
+
 https://merry-cascaron-69cc7f.netlify.app/
  
 ## Available Scripts
