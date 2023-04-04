@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Data App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Fue una de las primeros proyectos que hice para aprender react y tailwind.
 
 ## Built With
 
