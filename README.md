@@ -1,6 +1,6 @@
 # Data App
 
-Fue una de las primeros proyectos que hice para aprender react y tailwind.
+This project was made to test TailwindCSS and how to create a landingpage layout with media queries.
 
 ## Built With
 
